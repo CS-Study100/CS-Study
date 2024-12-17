@@ -49,9 +49,14 @@
 
 ## 🧑‍💻 스터디 구성원
 
-|  | 김예린 | 오수민 | 강정윤 | 공희진 |
-| --- | --- | --- | ---| ---|
-| Git | https://github.com/leGit-y | https://github.com/ssooomm | https://github.com/kkang0 | https://github.com/heejinkong |
+|  | 김예린 | 오수민 |
+| --- | --- | --- |
+| Git | https://github.com/leGit-y | https://github.com/ssooomm | 
+
+|  | 강정윤 | 공희진 |
+| --- | --- | --- |
+| Git | https://github.com/kkang0 | https://github.com/heejinkong |
+
 
 
 
